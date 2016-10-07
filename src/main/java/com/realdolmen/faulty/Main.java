@@ -1,0 +1,7 @@
+package com.realdolmen.faulty;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Helo Wolrd!");
+    }
+}
